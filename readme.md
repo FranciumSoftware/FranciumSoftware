@@ -19,4 +19,4 @@ I am actualy in France.
 ## Personality
 I am actualy very freindly. I am ready to help. I think electron apps are base things and I prefer to make native apps.
 ## Contact
-Mail [francium.software@gmail.com](mailto://francium.software@gmail.com)
+Mail [francium.software@gmail.com](mailto:francium.software@gmail.com)
