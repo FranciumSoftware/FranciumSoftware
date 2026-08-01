@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=FranciumSoftware)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)
 # Hello, I am FranciumSoftware
 I actualy work on MusStream but I am fully rewriting it in Rust.
 ## Languages
