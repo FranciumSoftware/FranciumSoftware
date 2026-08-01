@@ -7,6 +7,7 @@ I actualy work on MusStream but I am fully rewriting it in Rust.
 - C#
 - PHP
 - Rust
+
 (I dont mention HTML,JS and CSS because every coder know to code in theses languages).
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=FranciumSoftware&langs_count=8&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=FranciumSoftware&langs_count=6&theme=shadow_red)
 ## Frameworks
