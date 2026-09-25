@@ -1,6 +1,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)
 # Hello, I am FranciumSoftware
-I am actualy working on [MusStream](hytps://github.com/FrancoumSoftware/MusStream) a decentralized streaming software.
+I am actualy working on [MusStream](https://github.com/FrancoumSoftware/MusStream) a decentralized streaming software.
 ## Languages
 **I code in**
 - C++
