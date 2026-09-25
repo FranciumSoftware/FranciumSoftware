@@ -1,6 +1,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=FranciumSoftware&rank_icon=github&include_all_commits=true&theme=shadow_red)
 # Hello, I am FranciumSoftware
-I actualy work on MusStream but I am fully rewriting it in Rust.
+I am actualy working on [MusStream](hytps://github.com/FrancoumSoftware/MusStream) a decentralized streaming software.
 ## Languages
 **I code in**
 - C++
@@ -15,8 +15,8 @@ I actualy work on MusStream but I am fully rewriting it in Rust.
 - Qt
 - Laravel
 ## Location
-I am actualy in France.
+I come from France.
 ## Personality
-I am actualy very freindly. I am ready to help. I think electron apps are base things and I prefer to make native apps.
+I am really freindly. I am ready to help. I think electron apps are base things and I prefer to make native apps.
 ## Contact
 Mail [francium.software@gmail.com](mailto:francium.software@gmail.com)
